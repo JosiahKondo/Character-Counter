@@ -2,7 +2,7 @@
 This web application  allows users to enter a paragraph and check the number of characters.
 # instructions 
 Open Terminal. Type "git clone" followed by the URL of this page: https://github.com/JosiahKondo/Character-Counter
-This will clone the application into a new folder on your computer. 
+<br> This will clone the application into a new folder on your computer. 
 On a new command line type "cd Character-Counter" to go into the folder. 
 On a new command line type "ls" to see the files contained in the folder. 
 On a new command line run the app by typing "uvicorn app:main --reload". 
